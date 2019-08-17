@@ -3,12 +3,11 @@
   "editor.codeActionsOnSave": {
     "source.organizeImports": true
   },
-  "prettier": {
-    "printWidth": 120,
-    "singleQuote": true,
-    "useTabs": false,
-    "tabWidth": 2,
-    "semi": true,
-    "bracketSpacing": true
-  }
+  "prettier.printWidth": 120,
+  "prettier.singleQuote": true,
+  "prettier.useTabs": true,
+  "prettier.tabWidth": 2,
+  "prettier.semi": true,
+  "prettier.bracketSpacing": true,
+  "prettier.arrowParens": "always"
 }
